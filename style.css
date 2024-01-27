@@ -1,0 +1,150 @@
+/* li {
+    display: inline-block;
+}
+
+.header>.head-img>img {
+    padding-top: 20px;
+}
+
+.header {
+    display: flex;
+    width: 100% !important;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.head-right {
+    padding-top: 20px;
+    padding-left: 600px;
+    
+}
+
+.head-btns>button {
+    /* border-radius: 35px; */
+    /* color: white;
+    background: #75BF7A;
+    padding: 7px 20px;
+}
+
+.head-btns {
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+
+.head-right>li {
+    padding: 10px;
+    color: black;
+    
+} */ 
+
+.header {
+    width: 100%;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+.right-side , li {
+    display: inline-block;
+    padding: 10px ;
+    margin-right: 30px;
+    padding-right: 0px;
+    /* margin-right: 20px; */
+}
+
+
+.logo , .right-side {
+    display: inline-block;
+}
+
+.right-side , .btns {
+    display: inline-block;
+}
+
+.btns>button {
+    background: #75BF7A;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5.95px;
+    border-color: #75BF7A !important;
+}
+
+.btns {
+    padding-top: 20px;
+    padding-left: 5px;
+    
+}
+
+.right-side {
+    width: 40%;
+    vertical-align: baseline;
+    text-align: right;
+    padding-left: 100px;
+}
+
+.logo {
+    width: 30%;
+    vertical-align: middle;
+}
+
+
+table, tr, td ,h1{
+    padding-left: 20px;
+    padding-top: -40px;
+}
+
+table, tr, td, p {
+    font-weight: lighter;
+}
+
+table, tr, td>p {
+    padding-left: 20px;
+}
+
+table, tr, td, button, span>.a {
+    padding: 10px 20px;
+}
+
+.under {
+    background-color: #75BF7A;
+    width: 70%;
+    text-align: center;
+    margin: 0px 120px;
+    margin-left: 120px;
+    color: white;
+    padding: 20px 0px;
+}
+
+.under>p>input {
+    border-radius: 4.39px;
+    padding: 10px;
+    width: 300px;
+}
+
+.under>p>button {
+    background-color: black;
+    color: white;
+}
+
+.under>.lost {
+    font-size: 25px;
+}
+
+.end>.tree>span {
+    color: #75BF7A;
+}
+
+.end>.tree {
+    font-size: 46.39px;
+    text-align: center;
+}
+
+.end>.top {
+    text-align: center;
+    color: #9E9DA2;
+    line-height: 26px;
+    font-size: 23px;
+    padding-top: 0px;
+}
+
+
