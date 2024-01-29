@@ -38,6 +38,10 @@
     
 } */ 
 
+.container {
+    padding-left: 50px;
+}
+
 .header {
     width: 100%;
     padding-left: 40px;
@@ -148,3 +152,111 @@ table, tr, td, button, span>.a {
 }
 
 
+.dip {
+    height: 15px;
+    width: 15px;
+    background-color: #75BF7A;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dotting {
+    margin-left: 470px;
+  }
+
+
+  .cause {
+    color: #75BF7A;
+  }
+  
+
+  .causing {
+    font-size: 42.39px;
+    margin-left: 370px;
+  }
+
+  .causing>.caught {
+    font-weight: bold;
+  }
+
+  .ending {
+    color: #75BF7A;
+    font-size: 50px;
+  }
+
+  .ended {
+    font-size: 27px;
+  }
+
+  .code {
+    color: #9E9DA2;
+  }
+
+  /* .join>.joint>img {
+    display: inline-block;
+  } */
+
+  /* .join>.joint>img {
+    padding-top: 30px;
+  } */
+
+  .coat>img {
+    padding-right: 450px;
+  }
+
+  .calling {
+    padding-left: 20px;
+  }
+
+  /* .calling>p {
+    padding-left: 20px;
+  } */
+
+  .coat {
+    padding-left: 60px;
+  }
+
+  /* p.cap {
+    color: #9E9DA2;
+  }
+
+  .capping {
+    padding-left: 30px;
+  } */
+
+
+  .what>img {
+    padding-left: 60px;
+  }
+
+ .what {
+    padding-left: 60px;
+  }
+
+
+  .wall {
+    padding-left: 650px;
+    
+}
+
+
+
+
+
+.once{
+    background-color: black;
+    color: white;
+    border-color: black !important;
+}
+span>i {
+    padding: 3px;
+}
+
+.with {
+    color: grey;
+}
+
+/* .twice>img {
+    width: 553px;
+    height: 582.81px;
+} */
