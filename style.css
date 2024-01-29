@@ -186,6 +186,7 @@ table, tr, td, button, span>.a {
 
   .ended {
     font-size: 27px;
+    padding-left: 10px;
   }
 
   .code {
@@ -260,3 +261,26 @@ span>i {
     width: 553px;
     height: 582.81px;
 } */
+
+
+.ing {
+    padding-left: 80px;
+}
+
+.ing>.code {
+    padding-left: 20px;
+}
+
+.coat>.code {
+    padding-left: 20px;
+}
+
+/* table,tr,td,>.cool {
+    font-size: 40px;
+} */
+
+.last-end {
+    text-align: center;
+    color: #75BF7A;
+    font-size: 15px;
+}
